@@ -1,0 +1,6071 @@
+[
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775603392043,
+        "close": 71362.6722854541,
+        "volume": 55310883611.836426
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775603692701,
+        "close": 71415.73985328784,
+        "volume": 55394503975.10544
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775603993975,
+        "close": 71369.1223389591,
+        "volume": 55349820091.41161
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775604297124,
+        "close": 71937.90930666795,
+        "volume": 56425736783.87897
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775604595578,
+        "close": 72372.90468803054,
+        "volume": 57246613672.12659
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775604893379,
+        "close": 72379.48385466405,
+        "volume": 57778466005.60516
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775605195350,
+        "close": 72280.5815822781,
+        "volume": 57055935356.74415
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775605491716,
+        "close": 71994.91340384174,
+        "volume": 58150676125.21278
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775605791433,
+        "close": 72181.03441728144,
+        "volume": 57884228500.966415
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775606093583,
+        "close": 72167.833102348,
+        "volume": 57556359777.43052
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775606392189,
+        "close": 71975.62171045873,
+        "volume": 54821363017.72348
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775606694793,
+        "close": 71935.7407439674,
+        "volume": 55716551815.904045
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775606990810,
+        "close": 71917.82436985646,
+        "volume": 55790548571.04892
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775607296948,
+        "close": 71957.73553335358,
+        "volume": 56099442194.4551
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775607593416,
+        "close": 72012.47300932127,
+        "volume": 55850878733.176796
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775607891637,
+        "close": 71914.86373806695,
+        "volume": 56122784222.60533
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775608196808,
+        "close": 71910.93177310373,
+        "volume": 56177895453.06074
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775608491811,
+        "close": 71802.97831764392,
+        "volume": 56248848412.42618
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775608798452,
+        "close": 71862.68696656184,
+        "volume": 56390878749.74496
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775609091421,
+        "close": 71909.51139846542,
+        "volume": 56326022963.53354
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775609396374,
+        "close": 71664.32465738789,
+        "volume": 52023968535.496185
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775609690838,
+        "close": 71600.33192137348,
+        "volume": 56357843757.58973
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775609992635,
+        "close": 71675.99566085906,
+        "volume": 55979738559.05481
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775610281632,
+        "close": 71609.48234158567,
+        "volume": 56537274910.553535
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775610599124,
+        "close": 71699.52612099715,
+        "volume": 56810688997.80162
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775610900434,
+        "close": 71702.926976044,
+        "volume": 56591007578.087204
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775611191684,
+        "close": 71533.36463737991,
+        "volume": 56916166531.81461
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775611495664,
+        "close": 71560.46812974937,
+        "volume": 56678596515.25553
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775611792614,
+        "close": 71479.36329101879,
+        "volume": 56707686535.635796
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775612090626,
+        "close": 71474.6121148316,
+        "volume": 56269710397.55189
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775612391835,
+        "close": 71553.85005858305,
+        "volume": 56753741647.991936
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775612696053,
+        "close": 71502.2457966094,
+        "volume": 56748728392.26295
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775612992453,
+        "close": 71531.8304995603,
+        "volume": 56404960612.60906
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775613291683,
+        "close": 71543.0753819592,
+        "volume": 56434588537.461044
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775613593080,
+        "close": 71455.72565809466,
+        "volume": 56770986141.71109
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775613891413,
+        "close": 71484.38665873912,
+        "volume": 56754629990.19855
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775614191021,
+        "close": 71636.69175195691,
+        "volume": 56993577288.68274
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775614495963,
+        "close": 71690.50172624084,
+        "volume": 56827959295.654335
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775614792267,
+        "close": 71582.0348509441,
+        "volume": 57113356738.77732
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775615090925,
+        "close": 71471.96287828252,
+        "volume": 56749804860.8641
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775615392353,
+        "close": 71465.35939063736,
+        "volume": 57108492222.40935
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775615692600,
+        "close": 71368.27606201006,
+        "volume": 57286277153.187744
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775615991128,
+        "close": 71321.99439365175,
+        "volume": 57429837435.199425
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775616291731,
+        "close": 71281.63105569867,
+        "volume": 56495545127.655594
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775616591076,
+        "close": 71341.42440461036,
+        "volume": 56565862187.34393
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775616891316,
+        "close": 71336.8593533729,
+        "volume": 57013425512.27456
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775617200893,
+        "close": 71319.15990521638,
+        "volume": 57328380686.2996
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775617499943,
+        "close": 71413.39558135858,
+        "volume": 56808378940.702545
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775617790691,
+        "close": 71388.02847377004,
+        "volume": 57557925100.42771
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775618095725,
+        "close": 71334.45787215428,
+        "volume": 57396730289.934944
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775618391532,
+        "close": 71320.30098495628,
+        "volume": 56933445202.558495
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775618692586,
+        "close": 71286.59052344457,
+        "volume": 57624206778.685646
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775618994568,
+        "close": 71382.24916843326,
+        "volume": 57789545673.03779
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775619291749,
+        "close": 71405.9476465761,
+        "volume": 57446073364.91128
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775619591652,
+        "close": 71366.42082711325,
+        "volume": 57612805334.13554
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775619891068,
+        "close": 71381.55197229839,
+        "volume": 57541470356.328156
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775620192887,
+        "close": 71311.76494836708,
+        "volume": 57922804892.970215
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775620492586,
+        "close": 71301.3222660699,
+        "volume": 57441592622.14655
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775620773024,
+        "close": 71288.57608171008,
+        "volume": 57465233984.1571
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775621067079,
+        "close": 71323.72309765719,
+        "volume": 52948479446.13528
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775621352582,
+        "close": 71478.19593216584,
+        "volume": 51882986962.75898
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775621696287,
+        "close": 71502.12236834803,
+        "volume": 53456487822.74434
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775621996797,
+        "close": 71523.32687789932,
+        "volume": 53430622923.48862
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775622297317,
+        "close": 71490.39515103251,
+        "volume": 53489566132.0627
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775622596052,
+        "close": 71557.28795635619,
+        "volume": 53576892755.81893
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775622897092,
+        "close": 71539.9510064627,
+        "volume": 53042499508.9855
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775623200387,
+        "close": 71596.49602139406,
+        "volume": 52995807378.63722
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775623491925,
+        "close": 71599.98828656044,
+        "volume": 53060058460.36599
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775623799211,
+        "close": 71646.94831735568,
+        "volume": 53428647216.276474
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775624096153,
+        "close": 71567.78111664453,
+        "volume": 53365810612.34859
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775624396025,
+        "close": 71588.90550886675,
+        "volume": 53461306136.82973
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775624697564,
+        "close": 71559.7454574948,
+        "volume": 53328977649.8514
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775624998280,
+        "close": 71618.16233589269,
+        "volume": 53627537726.38682
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775625296112,
+        "close": 71652.26126200534,
+        "volume": 53252676157.61282
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775625596528,
+        "close": 71663.67777041893,
+        "volume": 53114967938.960175
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775625896280,
+        "close": 71732.93201878414,
+        "volume": 53667401647.05711
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775626198279,
+        "close": 71710.96494131803,
+        "volume": 53817159039.62529
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775626497782,
+        "close": 71737.14588886056,
+        "volume": 53676020381.290565
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775626797223,
+        "close": 71691.95210246788,
+        "volume": 53825395076.355705
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775627096890,
+        "close": 71689.90674270957,
+        "volume": 53854771881.12874
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775627398598,
+        "close": 71694.18048346287,
+        "volume": 53821245306.60927
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775627698827,
+        "close": 71759.78569556276,
+        "volume": 54359863169.228935
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775628000836,
+        "close": 71715.30467887901,
+        "volume": 53940596018.81359
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775628296508,
+        "close": 71602.82315320228,
+        "volume": 54287687589.02768
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775628595535,
+        "close": 71633.3944011887,
+        "volume": 53892475919.79296
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775628897337,
+        "close": 71787.38810150181,
+        "volume": 54360179994.76412
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775629192574,
+        "close": 71791.40608278259,
+        "volume": 54396764130.72995
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775629496477,
+        "close": 71887.79414386128,
+        "volume": 53042880982.70721
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775629798292,
+        "close": 71835.467513389,
+        "volume": 54688645617.46822
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775630098989,
+        "close": 71808.78717599231,
+        "volume": 55409108851.30525
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775630399863,
+        "close": 71829.77425468176,
+        "volume": 55543622176.98894
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775630697763,
+        "close": 71789.73713643118,
+        "volume": 55277058451.82682
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775630993196,
+        "close": 71806.0088489167,
+        "volume": 55428221730.44246
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775631296190,
+        "close": 71731.9430320624,
+        "volume": 55474963509.05415
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775631598692,
+        "close": 71716.33126607565,
+        "volume": 52228254489.13014
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775631891475,
+        "close": 71658.01216614277,
+        "volume": 55979712705.30115
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775632198572,
+        "close": 71694.93781380686,
+        "volume": 55778092380.577
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775632497253,
+        "close": 71739.24984254257,
+        "volume": 54452497036.16893
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775632795983,
+        "close": 71718.54759783784,
+        "volume": 56189893058.14785
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775633095421,
+        "close": 71844.65052955551,
+        "volume": 55897009607.74294
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775633400514,
+        "close": 71849.60283209269,
+        "volume": 53612098183.39031
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775633690807,
+        "close": 71655.60509362601,
+        "volume": 56263902413.28863
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775633998014,
+        "close": 71658.03294323996,
+        "volume": 56065427523.78293
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775634299176,
+        "close": 71633.3822937293,
+        "volume": 55973470908.79787
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775634597678,
+        "close": 71597.17231119722,
+        "volume": 56339653048.371635
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775634896032,
+        "close": 71595.74033301529,
+        "volume": 56413174500.445496
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775635200447,
+        "close": 71607.85137669035,
+        "volume": 53004848228.02933
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775635493738,
+        "close": 71715.58728575592,
+        "volume": 52663171686.94317
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775635796231,
+        "close": 71753.51729129587,
+        "volume": 53296832013.98336
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775636097168,
+        "close": 71700.89968942892,
+        "volume": 53168316021.146484
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775636399359,
+        "close": 71759.96965125958,
+        "volume": 53904654496.99371
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775636694239,
+        "close": 71734.31728482318,
+        "volume": 53413785559.129
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775636996872,
+        "close": 71742.6103413705,
+        "volume": 53543709446.31895
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775637296932,
+        "close": 71759.86373464044,
+        "volume": 53557113125.51283
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775637592459,
+        "close": 71714.96284712382,
+        "volume": 53980226722.39893
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775637890872,
+        "close": 71675.30233977479,
+        "volume": 54031290073.71952
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775638199726,
+        "close": 71717.34606843346,
+        "volume": 53432623465.84707
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775638497481,
+        "close": 71727.1514878298,
+        "volume": 53419102291.75487
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775638798759,
+        "close": 71769.45685444491,
+        "volume": 53587707439.583435
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775639097339,
+        "close": 71841.89750755635,
+        "volume": 52898793452.008675
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775639396987,
+        "close": 71898.36794065082,
+        "volume": 52474539970.837326
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775639697016,
+        "close": 71830.3386156582,
+        "volume": 53583318449.600494
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775639997831,
+        "close": 71809.89237608589,
+        "volume": 53591837707.53939
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775640297743,
+        "close": 71808.98847129899,
+        "volume": 53626533022.63062
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775640597050,
+        "close": 71709.9497666806,
+        "volume": 53905589498.682945
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775640899686,
+        "close": 71720.44605030131,
+        "volume": 53334654443.18966
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775641197323,
+        "close": 71690.40752946619,
+        "volume": 53452659298.16299
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775641496102,
+        "close": 71631.46668747277,
+        "volume": 53531954575.95305
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775641798742,
+        "close": 71618.7700910982,
+        "volume": 53485233971.92961
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775642098449,
+        "close": 71679.1150037684,
+        "volume": 52902302110.86645
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775642400949,
+        "close": 71684.51069741158,
+        "volume": 52941954766.19659
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775642696114,
+        "close": 71691.00195462673,
+        "volume": 53720156337.06483
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775642999223,
+        "close": 71710.09066594788,
+        "volume": 52593925646.0561
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775643298863,
+        "close": 71606.53902774397,
+        "volume": 52986984443.39331
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775643597697,
+        "close": 71614.18268591385,
+        "volume": 53073626446.98452
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775643897302,
+        "close": 71654.1927272646,
+        "volume": 53133366030.836784
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775644197386,
+        "close": 71639.88255425668,
+        "volume": 53159110994.50912
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775644495453,
+        "close": 71537.30724369278,
+        "volume": 53705907011.85259
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775644795659,
+        "close": 71531.85689989408,
+        "volume": 51501288364.51332
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775645098035,
+        "close": 71546.01173926012,
+        "volume": 52324871879.903244
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775645391794,
+        "close": 71555.34588487058,
+        "volume": 52961384562.39989
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775645698539,
+        "close": 71545.36723676808,
+        "volume": 52892447787.72881
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775646000556,
+        "close": 71500.27882941788,
+        "volume": 53180711245.98219
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775646296071,
+        "close": 71521.68630893034,
+        "volume": 52581756380.05103
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775646597745,
+        "close": 71540.78059071205,
+        "volume": 51767890452.35264
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775646892846,
+        "close": 71611.64210711479,
+        "volume": 52718262108.6228
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775647200602,
+        "close": 71621.89990166292,
+        "volume": 52439466038.67792
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775647494920,
+        "close": 71571.94718131954,
+        "volume": 52558458887.1827
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775647800711,
+        "close": 71632.96330493459,
+        "volume": 52588718575.31825
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775648097823,
+        "close": 71573.33509794372,
+        "volume": 52382946992.103806
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775648396118,
+        "close": 71451.43128283716,
+        "volume": 47028140833.40538
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775648697092,
+        "close": 71522.09022857631,
+        "volume": 52594431960.275
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775648996568,
+        "close": 71523.75994918296,
+        "volume": 52888873146.50396
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775649296342,
+        "close": 71697.06351258577,
+        "volume": 51648018695.47748
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775649605170,
+        "close": 71677.1185370044,
+        "volume": 49711766104.82689
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775649896567,
+        "close": 71715.7820778433,
+        "volume": 49641072577.8715
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775650196087,
+        "close": 71710.6248208978,
+        "volume": 49433505864.13773
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775650488042,
+        "close": 71778.73677497431,
+        "volume": 49785043688.38081
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775650797096,
+        "close": 71838.71362771826,
+        "volume": 48824516382.027794
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775651099581,
+        "close": 71706.86936786505,
+        "volume": 49674210154.41999
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775651397868,
+        "close": 71739.39525876724,
+        "volume": 48986685617.54868
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775651696360,
+        "close": 71791.41658806345,
+        "volume": 49968256286.62822
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775651997275,
+        "close": 71925.32764816997,
+        "volume": 49378565856.50166
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775652296536,
+        "close": 71881.73390525107,
+        "volume": 50222639041.17366
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775652599512,
+        "close": 71913.48277815369,
+        "volume": 50280407433.09761
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775652895638,
+        "close": 71973.41058376827,
+        "volume": 50056243540.37032
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775653195942,
+        "close": 72088.64825915922,
+        "volume": 50012792244.54236
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775653497447,
+        "close": 72117.6340746334,
+        "volume": 50539166408.42209
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775653796427,
+        "close": 72604.63735771972,
+        "volume": 51477350008.35581
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775654098028,
+        "close": 72608.90064773432,
+        "volume": 51934029374.08822
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775654397331,
+        "close": 72698.17858711076,
+        "volume": 51494859195.475395
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775654699032,
+        "close": 72457.93135729081,
+        "volume": 52128356375.411835
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775654997129,
+        "close": 72469.8228330459,
+        "volume": 52504681719.6258
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775655296691,
+        "close": 72150.31203082076,
+        "volume": 52134649826.21855
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775655597995,
+        "close": 71890.34504402406,
+        "volume": 53054677814.0638
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775655896513,
+        "close": 71709.81304718579,
+        "volume": 53053549026.704346
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775656195999,
+        "close": 71894.3510339369,
+        "volume": 53354941235.19409
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775656498024,
+        "close": 71643.48481764445,
+        "volume": 53508614573.87306
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775656796861,
+        "close": 71595.26553578468,
+        "volume": 53634569680.5042
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775657096687,
+        "close": 71668.25038710437,
+        "volume": 53324308553.058975
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775657396595,
+        "close": 71557.40847931517,
+        "volume": 40481642282.10488
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775657695943,
+        "close": 71530.15875679954,
+        "volume": 53514297806.32
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775657999346,
+        "close": 71555.61909741569,
+        "volume": 52124870066.18616
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775658286372,
+        "close": 71408.28867052673,
+        "volume": 53134573121.800316
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775658597060,
+        "close": 71501.88018877585,
+        "volume": 53360451745.6105
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775658898294,
+        "close": 71125.82459388346,
+        "volume": 52617574485.65798
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775659194256,
+        "close": 71107.57034191077,
+        "volume": 52989906699.29331
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775659491165,
+        "close": 71128.21341310187,
+        "volume": 54019931903.670654
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775659796382,
+        "close": 71099.75422024775,
+        "volume": 54384040648.58888
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775660097609,
+        "close": 70889.70027278962,
+        "volume": 54112931964.20879
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775660400493,
+        "close": 70839.24039381472,
+        "volume": 53658103424.906265
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775660697326,
+        "close": 70952.5302301404,
+        "volume": 54609110818.18971
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775660996377,
+        "close": 70969.80261627358,
+        "volume": 54664888980.745514
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775661296729,
+        "close": 71011.35448309028,
+        "volume": 54692774004.66458
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775661599953,
+        "close": 71103.33638708176,
+        "volume": 52519006739.216255
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775661895652,
+        "close": 71181.98285271075,
+        "volume": 54753321368.95401
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775662200560,
+        "close": 71154.78731245683,
+        "volume": 53965063077.17708
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775662499458,
+        "close": 71132.66408836911,
+        "volume": 54519899381.60195
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775662790991,
+        "close": 71225.44865224448,
+        "volume": 54774883736.74164
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775663097624,
+        "close": 71232.44960769691,
+        "volume": 54751555282.469086
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775663398791,
+        "close": 71298.65977270897,
+        "volume": 54607126065.57453
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775663699532,
+        "close": 71263.25883479934,
+        "volume": 54880085604.43744
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775664000404,
+        "close": 71300.97902964945,
+        "volume": 54332947202.157196
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775664297158,
+        "close": 71359.55452631113,
+        "volume": 54393896788.94702
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775664595577,
+        "close": 71373.49430456304,
+        "volume": 54457774396.56918
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775664900378,
+        "close": 71333.17134345327,
+        "volume": 54471848020.8115
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775665177557,
+        "close": 71309.85589857776,
+        "volume": 54438465951.745255
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775665499310,
+        "close": 71438.24459335851,
+        "volume": 54359625374.40113
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775665792324,
+        "close": 71429.24774074038,
+        "volume": 54210102357.57205
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775666098686,
+        "close": 71287.32191311807,
+        "volume": 53046307752.78852
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775666399941,
+        "close": 71361.39139656223,
+        "volume": 54484096197.90284
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775666692177,
+        "close": 71438.3027502904,
+        "volume": 54458042919.30779
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775666992743,
+        "close": 71490.07763419431,
+        "volume": 53911246675.24056
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775667295672,
+        "close": 71519.86700063813,
+        "volume": 54440783696.033195
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775667596268,
+        "close": 71616.877152209,
+        "volume": 54696815404.11804
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775667897800,
+        "close": 71720.6600038644,
+        "volume": 54687361439.7838
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775668196382,
+        "close": 71653.69920093709,
+        "volume": 54737944244.96156
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775668497397,
+        "close": 71757.6290582589,
+        "volume": 54826138981.95304
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775668796589,
+        "close": 71739.09724977192,
+        "volume": 54772392752.01105
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775669097888,
+        "close": 71628.48147374377,
+        "volume": 55102791372.20066
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775669397207,
+        "close": 71553.39811524241,
+        "volume": 54205199335.3154
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775669698784,
+        "close": 71671.71788102764,
+        "volume": 55114404968.980385
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775669999432,
+        "close": 71813.90177407528,
+        "volume": 54950283797.62424
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775670295940,
+        "close": 71817.0123509923,
+        "volume": 54959391745.53946
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775670597241,
+        "close": 71879.67712552515,
+        "volume": 54207890393.03195
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775670895935,
+        "close": 71889.38690548562,
+        "volume": 54704644309.99015
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775671200450,
+        "close": 71892.24518699429,
+        "volume": 54802634937.58569
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775671497425,
+        "close": 71832.14644955464,
+        "volume": 54809751428.72177
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775671796648,
+        "close": 71837.41608619489,
+        "volume": 54881990899.94465
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775672098668,
+        "close": 71706.19811827411,
+        "volume": 54688807040.088005
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775672396326,
+        "close": 71567.7835112991,
+        "volume": 45188409086.32044
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775672696229,
+        "close": 71394.03868202532,
+        "volume": 54999774755.45002
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775672996411,
+        "close": 71382.29201397958,
+        "volume": 55021250181.9998
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775673293460,
+        "close": 71502.35064183499,
+        "volume": 54872168622.08036
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775673599234,
+        "close": 71523.33381890286,
+        "volume": 55300725354.698944
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775673897555,
+        "close": 71327.3779980319,
+        "volume": 55596078701.321396
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775674195662,
+        "close": 71321.29092149486,
+        "volume": 55136444283.67883
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775674496620,
+        "close": 71229.56326243738,
+        "volume": 55322981843.682076
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775674800467,
+        "close": 71121.91707866662,
+        "volume": 54154348546.9883
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775675092368,
+        "close": 71123.91068760121,
+        "volume": 55001788008.28237
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775675399176,
+        "close": 71154.78393547176,
+        "volume": 55242877386.26229
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775675698296,
+        "close": 71240.59635515405,
+        "volume": 54372592311.677826
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775675996004,
+        "close": 71198.92393955123,
+        "volume": 55268653573.00703
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775676296043,
+        "close": 71175.75132136623,
+        "volume": 54792823357.17684
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775676600606,
+        "close": 71143.00306949913,
+        "volume": 54803993749.31884
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775676896728,
+        "close": 71158.17917749223,
+        "volume": 54787034836.264305
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775677195665,
+        "close": 71309.97836255554,
+        "volume": 54365391960.403336
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775677497110,
+        "close": 71246.86501920542,
+        "volume": 54897013508.136765
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775677799409,
+        "close": 71342.12295329991,
+        "volume": 54519405756.57976
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775678092682,
+        "close": 71349.56694131505,
+        "volume": 54290046356.99766
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775678400423,
+        "close": 71305.21033797062,
+        "volume": 53860825953.28426
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775678699542,
+        "close": 71394.16903061373,
+        "volume": 52697311844.732376
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775678997267,
+        "close": 71424.36105805346,
+        "volume": 52564483211.23626
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775679296549,
+        "close": 71429.18859220606,
+        "volume": 53141039785.16685
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775679597321,
+        "close": 71466.19623845811,
+        "volume": 53102612678.97741
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775679895952,
+        "close": 71411.0353765919,
+        "volume": 52975839654.70988
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775680200552,
+        "close": 71440.91048179877,
+        "volume": 52715890728.27197
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775680497263,
+        "close": 71406.6301010146,
+        "volume": 52755579692.92635
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775680796736,
+        "close": 71338.64099652076,
+        "volume": 52766473908.75005
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775681096375,
+        "close": 71319.70334210199,
+        "volume": 52419819495.18823
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775681396831,
+        "close": 71307.3879176723,
+        "volume": 52513398169.21714
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775681697618,
+        "close": 71345.32708290235,
+        "volume": 52698747413.82148
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775681998331,
+        "close": 71362.71539046324,
+        "volume": 52451246689.45786
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775682299197,
+        "close": 71366.06958403613,
+        "volume": 51865171977.17195
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775682599838,
+        "close": 71428.99518848184,
+        "volume": 51999696900.70952
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775682895647,
+        "close": 71555.23772601996,
+        "volume": 50808236783.78816
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775683198263,
+        "close": 71547.77654107692,
+        "volume": 51220903098.80279
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775683499225,
+        "close": 71622.11344657066,
+        "volume": 51222929756.58046
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775683795088,
+        "close": 71702.22976353069,
+        "volume": 50672180706.45093
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775684096534,
+        "close": 71638.87477818593,
+        "volume": 51353717595.85651
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775684397511,
+        "close": 71628.60596250059,
+        "volume": 51209127732.01062
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775684696112,
+        "close": 71605.37631894366,
+        "volume": 51197166575.29142
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775684995940,
+        "close": 71588.96770417767,
+        "volume": 50225609152.040016
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775685299697,
+        "close": 71592.46456530281,
+        "volume": 50180092472.79369
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775685600463,
+        "close": 71530.37434625559,
+        "volume": 50603699283.8681
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775685895379,
+        "close": 71463.69220255502,
+        "volume": 49618834538.776215
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775686198084,
+        "close": 71510.72108465555,
+        "volume": 49642877509.28795
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775686496515,
+        "close": 71420.28504900524,
+        "volume": 49650831872.60523
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775686797595,
+        "close": 71371.82052599652,
+        "volume": 49557722014.578514
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775687095823,
+        "close": 71327.93307289257,
+        "volume": 49500028912.90377
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775687397051,
+        "close": 71206.08251672558,
+        "volume": 49379621242.93558
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775687695808,
+        "close": 71227.70907494551,
+        "volume": 48949288574.24856
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775687996950,
+        "close": 71301.44313253916,
+        "volume": 47721597702.6341
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775688294995,
+        "close": 71263.03336955438,
+        "volume": 47683240377.70085
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775688599284,
+        "close": 71243.82432924969,
+        "volume": 47701196213.02119
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775688897547,
+        "close": 71186.58234587332,
+        "volume": 47585506472.77661
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775689200791,
+        "close": 71084.7379943279,
+        "volume": 47109496628.08322
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775689498144,
+        "close": 70930.28111975068,
+        "volume": 46148190859.53505
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BITCOIN",
+        "timestamp": 1775689541000,
+        "close": 70950.12340370077,
+        "volume": 46039788049.1245
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775603392389,
+        "close": 2225.3354365787045,
+        "volume": 20105436315.96346
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775603692463,
+        "close": 2230.6408457657717,
+        "volume": 20179079109.21968
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775603994926,
+        "close": 2224.195806100714,
+        "volume": 20034614113.590866
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775604297064,
+        "close": 2249.093584311987,
+        "volume": 20144623933.841393
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775604595486,
+        "close": 2256.735333342362,
+        "volume": 21627779469.185883
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775604893669,
+        "close": 2257.270626704765,
+        "volume": 21882270525.821804
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775605195360,
+        "close": 2250.4984958517844,
+        "volume": 21467669775.938366
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775605491841,
+        "close": 2245.9976147863617,
+        "volume": 21943390426.847702
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775605791481,
+        "close": 2254.4893427195743,
+        "volume": 21110610754.38701
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775606092941,
+        "close": 2253.1285917580644,
+        "volume": 20724987891.706715
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775606392040,
+        "close": 2241.8159903072574,
+        "volume": 21326991149.979954
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775606694711,
+        "close": 2241.18714794517,
+        "volume": 22581290473.464024
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775606991492,
+        "close": 2242.0979830582182,
+        "volume": 22591053794.939217
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775607296812,
+        "close": 2243.387062312967,
+        "volume": 22838710357.03449
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775607593339,
+        "close": 2245.4902888008237,
+        "volume": 22937690858.82944
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775607892274,
+        "close": 2240.733895968882,
+        "volume": 22829169388.13795
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775608196721,
+        "close": 2240.456780765922,
+        "volume": 22901423019.10995
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775608491375,
+        "close": 2236.8018525616394,
+        "volume": 23160902396.00209
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775608793165,
+        "close": 2237.1196307884384,
+        "volume": 23069724385.536964
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775609091744,
+        "close": 2239.5606926961295,
+        "volume": 23105745508.85025
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775609391266,
+        "close": 2230.6082954949798,
+        "volume": 21531512466.653946
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775609690968,
+        "close": 2232.7456134853524,
+        "volume": 22510379302.785458
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775609992215,
+        "close": 2234.615610255096,
+        "volume": 22510505310.35528
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775610281703,
+        "close": 2234.742296975316,
+        "volume": 22366856720.254757
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775610600139,
+        "close": 2239.3089945217816,
+        "volume": 23584280568.584736
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775610900522,
+        "close": 2240.8335230939756,
+        "volume": 23151491137.317314
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775611192033,
+        "close": 2235.620001990694,
+        "volume": 23608064245.628387
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775611495663,
+        "close": 2234.0383617379944,
+        "volume": 22637128968.094975
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775611792803,
+        "close": 2232.713462980157,
+        "volume": 22478848178.746357
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775612090528,
+        "close": 2232.9212814084553,
+        "volume": 22322257236.88399
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775612392024,
+        "close": 2237.26801098109,
+        "volume": 23363271669.039173
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775612695925,
+        "close": 2236.92004584486,
+        "volume": 23283896266.912014
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775612992557,
+        "close": 2237.7704025756684,
+        "volume": 23345150277.373173
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775613291821,
+        "close": 2236.7567318860647,
+        "volume": 23322696903.62073
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775613593463,
+        "close": 2234.588592691279,
+        "volume": 22487804141.697018
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775613891491,
+        "close": 2235.936593148237,
+        "volume": 22459189461.672283
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775614190863,
+        "close": 2242.472293131886,
+        "volume": 23436894414.879547
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775614495961,
+        "close": 2243.94238643901,
+        "volume": 22669521886.88244
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775614792360,
+        "close": 2238.9051156547516,
+        "volume": 23891798830.1755
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775615091160,
+        "close": 2233.8882505883284,
+        "volume": 23455435986.27083
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775615392405,
+        "close": 2235.2098609594946,
+        "volume": 23504216863.037975
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775615693074,
+        "close": 2233.7278672157536,
+        "volume": 23603918483.469643
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775615991047,
+        "close": 2233.0774870995356,
+        "volume": 23729828639.307148
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775616292074,
+        "close": 2232.470425021688,
+        "volume": 22525965787.59102
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775616591135,
+        "close": 2232.5989465994962,
+        "volume": 23694917868.187157
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775616891426,
+        "close": 2235.7070133285442,
+        "volume": 22848468266.615646
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775617200522,
+        "close": 2234.5785489175137,
+        "volume": 22809925122.665165
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775617499911,
+        "close": 2237.127194206473,
+        "volume": 22773487628.799644
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775617790528,
+        "close": 2235.745998799951,
+        "volume": 22987819105.389717
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775618095731,
+        "close": 2234.36314221809,
+        "volume": 22716036497.809887
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775618391397,
+        "close": 2233.7124926402785,
+        "volume": 22881370740.171494
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775618693806,
+        "close": 2232.8006371941137,
+        "volume": 22928667528.623577
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775618994488,
+        "close": 2236.5742786589176,
+        "volume": 24014526230.96301
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775619291588,
+        "close": 2237.2571876932834,
+        "volume": 23082043256.36116
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775619595719,
+        "close": 2235.7880375939467,
+        "volume": 23098093702.005646
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775619890779,
+        "close": 2237.309330654189,
+        "volume": 23084069545.732162
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775620192993,
+        "close": 2235.115398916822,
+        "volume": 23119497454.783417
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775620492136,
+        "close": 2234.2389421026714,
+        "volume": 23066312975.363613
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775620782060,
+        "close": 2234.304553487867,
+        "volume": 23470658063.875427
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775621072552,
+        "close": 2237.992895474434,
+        "volume": 23705920715.96213
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775621354685,
+        "close": 2244.8305146498815,
+        "volume": 23425807441.94952
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775621696684,
+        "close": 2243.490808218911,
+        "volume": 24782576580.863815
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775621996763,
+        "close": 2243.436412073311,
+        "volume": 23973697446.174164
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775622297639,
+        "close": 2242.598403216028,
+        "volume": 24826865811.832527
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775622595995,
+        "close": 2245.460129003725,
+        "volume": 24864671323.55617
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775622897502,
+        "close": 2244.120987942809,
+        "volume": 24810529871.93077
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775623200481,
+        "close": 2248.557548694962,
+        "volume": 25093207181.736065
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775623492015,
+        "close": 2249.3845261364704,
+        "volume": 24208682654.02118
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775623799042,
+        "close": 2249.0786101849317,
+        "volume": 24988314070.910236
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775624096192,
+        "close": 2246.046105379006,
+        "volume": 24913238236.299973
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775624395734,
+        "close": 2244.6863938265637,
+        "volume": 25091798531.638794
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775624697677,
+        "close": 2241.204805774745,
+        "volume": 24082426873.17414
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775624998438,
+        "close": 2243.121391519237,
+        "volume": 24089334870.832645
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775625296087,
+        "close": 2241.2805118440306,
+        "volume": 24148458447.08562
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775625596919,
+        "close": 2241.4703508104226,
+        "volume": 24147864718.256428
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775625896394,
+        "close": 2243.626489670796,
+        "volume": 24939657410.107227
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775626198159,
+        "close": 2243.5731732862428,
+        "volume": 24186909300.77421
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775626497783,
+        "close": 2243.6768552539493,
+        "volume": 24195644058.05015
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775626796799,
+        "close": 2240.645859181908,
+        "volume": 24269425386.904663
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775627097158,
+        "close": 2240.3889084563702,
+        "volume": 25142779278.09399
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775627396757,
+        "close": 2239.6467093068413,
+        "volume": 24328121616.737343
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775627698645,
+        "close": 2242.6501353729923,
+        "volume": 24346127519.65447
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775628000476,
+        "close": 2240.1938155820835,
+        "volume": 25086780914.96415
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775628296387,
+        "close": 2236.8228729481098,
+        "volume": 25102750941.281998
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775628595594,
+        "close": 2237.133497973665,
+        "volume": 25147050628.717934
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775628897251,
+        "close": 2240.855433923103,
+        "volume": 23873009669.467625
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775629193295,
+        "close": 2243.3908933188827,
+        "volume": 25226247744.701622
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775629496350,
+        "close": 2248.7849752535612,
+        "volume": 24627162049.49723
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775629798528,
+        "close": 2250.1613279950543,
+        "volume": 24692144014.71738
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775630099540,
+        "close": 2248.8897489487467,
+        "volume": 24587121193.532257
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775630399876,
+        "close": 2249.718023657529,
+        "volume": 24713084701.19102
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775630697199,
+        "close": 2248.704124616345,
+        "volume": 24742645870.674488
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775630993385,
+        "close": 2249.612853325445,
+        "volume": 23455547549.282665
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775631296208,
+        "close": 2246.4520794606683,
+        "volume": 24555110174.89605
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775631598866,
+        "close": 2245.6587720404077,
+        "volume": 24521351918.757454
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775631891039,
+        "close": 2245.0287785992846,
+        "volume": 24951265185.21937
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775632198826,
+        "close": 2247.987288968612,
+        "volume": 24954010235.70521
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775632497491,
+        "close": 2249.122016558345,
+        "volume": 24808157066.179897
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775632795826,
+        "close": 2249.2853726847306,
+        "volume": 24995659923.087387
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775633095533,
+        "close": 2255.131881352219,
+        "volume": 24270752611.800434
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775633397935,
+        "close": 2257.751042618458,
+        "volume": 25610929186.77656
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775633690728,
+        "close": 2249.225534090031,
+        "volume": 24785227545.61022
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775633998089,
+        "close": 2248.70712953365,
+        "volume": 25266128030.19155
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775634299444,
+        "close": 2250.0933906864575,
+        "volume": 24973725847.497993
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775634597718,
+        "close": 2251.00551510974,
+        "volume": 25054726881.35541
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775634895715,
+        "close": 2250.996198434641,
+        "volume": 24882858642.530205
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775635200694,
+        "close": 2252.10913422199,
+        "volume": 25312012621.85605
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775635492157,
+        "close": 2255.8607669050684,
+        "volume": 25552645163.05889
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775635795824,
+        "close": 2255.983432305925,
+        "volume": 25626387399.446884
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775636097101,
+        "close": 2254.269401032867,
+        "volume": 25473097745.348248
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775636390233,
+        "close": 2256.852564486955,
+        "volume": 25706574118.91254
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775636691606,
+        "close": 2256.3503322265997,
+        "volume": 25595387028.917492
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775636996916,
+        "close": 2256.1289070983116,
+        "volume": 25620772582.69168
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775637296941,
+        "close": 2257.0478592387312,
+        "volume": 25676169227.406456
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775637592990,
+        "close": 2254.2681191858273,
+        "volume": 26512720262.53585
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775637897524,
+        "close": 2251.7865582984314,
+        "volume": 26606784258.356415
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775638199768,
+        "close": 2254.866392035434,
+        "volume": 25763875460.0503
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775638497457,
+        "close": 2254.606456069454,
+        "volume": 26583633939.222004
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775638798799,
+        "close": 2255.8134614998266,
+        "volume": 25677090306.278965
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775639097408,
+        "close": 2257.5563042969466,
+        "volume": 25665845152.273266
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775639396862,
+        "close": 2259.5084265634637,
+        "volume": 25005437724.291622
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775639696685,
+        "close": 2258.534867041908,
+        "volume": 26176959652.0008
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775639997769,
+        "close": 2256.853117842859,
+        "volume": 25513171695.490494
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775640297089,
+        "close": 2256.324920875355,
+        "volume": 25448891146.05076
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775640599119,
+        "close": 2251.686766071666,
+        "volume": 26627873889.900723
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775640899007,
+        "close": 2251.822058025136,
+        "volume": 26287540071.540855
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775641197116,
+        "close": 2250.6066059118566,
+        "volume": 26261059336.254196
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775641495964,
+        "close": 2247.986690199621,
+        "volume": 26415072922.18506
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775641798902,
+        "close": 2248.764438278096,
+        "volume": 26296578224.793163
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775642098441,
+        "close": 2249.733411134527,
+        "volume": 26391239477.941204
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775642400564,
+        "close": 2249.7900082273786,
+        "volume": 26774666445.473934
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775642696405,
+        "close": 2250.5381668946616,
+        "volume": 26404473819.816246
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775643000439,
+        "close": 2252.808091718226,
+        "volume": 26656840314.82528
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775643298970,
+        "close": 2248.130138915364,
+        "volume": 26314009776.365105
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775643597354,
+        "close": 2248.4474276210294,
+        "volume": 25405175574.259674
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775643897636,
+        "close": 2249.897511841364,
+        "volume": 26294532496.700325
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775644197534,
+        "close": 2249.9526740315146,
+        "volume": 25913048098.667744
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775644495569,
+        "close": 2246.493926401909,
+        "volume": 26433246473.200657
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775644795602,
+        "close": 2244.9518669861127,
+        "volume": 25455831106.389786
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775645098055,
+        "close": 2245.0101936827314,
+        "volume": 25912089779.573517
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775645392053,
+        "close": 2245.7677714203437,
+        "volume": 26078557745.0184
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775645698005,
+        "close": 2246.631752834774,
+        "volume": 26047506430.48074
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775646000472,
+        "close": 2244.2758870027897,
+        "volume": 26149204664.629444
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775646296582,
+        "close": 2243.9505233771592,
+        "volume": 25986964048.499626
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775646597729,
+        "close": 2244.0140828738813,
+        "volume": 25424630001.257374
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775646896539,
+        "close": 2247.705813773392,
+        "volume": 25767799462.41332
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775647200445,
+        "close": 2248.0470913462373,
+        "volume": 25511301995.115715
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775647494879,
+        "close": 2247.205670049192,
+        "volume": 25629445108.88362
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775647800428,
+        "close": 2251.7803951342407,
+        "volume": 25551112811.0371
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775648097133,
+        "close": 2251.1218889540414,
+        "volume": 25594633207.323734
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775648395869,
+        "close": 2241.331836632312,
+        "volume": 25939222620.967705
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775648692696,
+        "close": 2241.7908379998676,
+        "volume": 24633470806.084503
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775648996479,
+        "close": 2242.413076466977,
+        "volume": 24858835950.781876
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775649296225,
+        "close": 2247.8151683226065,
+        "volume": 25223258142.03903
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775649604765,
+        "close": 2246.964207230592,
+        "volume": 24823242292.13873
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775649896714,
+        "close": 2250.326602932676,
+        "volume": 25817735600.657135
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775650196025,
+        "close": 2250.638851605072,
+        "volume": 24922834283.1427
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775650487916,
+        "close": 2251.5712114508287,
+        "volume": 25534306261.263702
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775650797051,
+        "close": 2252.6190308638766,
+        "volume": 24563833366.58603
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775651099561,
+        "close": 2246.790475747736,
+        "volume": 24204679254.559925
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775651397745,
+        "close": 2247.6947338934983,
+        "volume": 24740727632.513218
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775651696362,
+        "close": 2251.0163949975167,
+        "volume": 25726467487.976307
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775651997713,
+        "close": 2254.3500250141265,
+        "volume": 25172744619.60665
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775652296926,
+        "close": 2254.391957407655,
+        "volume": 25773769715.273872
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775652598096,
+        "close": 2254.681228006521,
+        "volume": 25577245914.813107
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775652897735,
+        "close": 2254.803769932295,
+        "volume": 25580555816.81404
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775653195791,
+        "close": 2256.3919058811784,
+        "volume": 25541938396.240005
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775653496282,
+        "close": 2257.528854481921,
+        "volume": 25468371247.19586
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775653796346,
+        "close": 2265.341107027794,
+        "volume": 25721324198.20898
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775654097711,
+        "close": 2261.2202572722385,
+        "volume": 26129454328.634666
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775654396863,
+        "close": 2262.6880687794237,
+        "volume": 25905188644.03304
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775654699036,
+        "close": 2257.3640349872912,
+        "volume": 24965187580.98405
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775654996995,
+        "close": 2259.545187416207,
+        "volume": 25880292962.910572
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775655296329,
+        "close": 2250.591355153441,
+        "volume": 26134186339.04604
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775655597746,
+        "close": 2241.251257914393,
+        "volume": 26443989697.476475
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775655896246,
+        "close": 2236.6628298490014,
+        "volume": 25817530253.092632
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775656190767,
+        "close": 2242.2528464995903,
+        "volume": 24944338641.262817
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775656497776,
+        "close": 2237.175091644466,
+        "volume": 25775303646.093433
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775656796594,
+        "close": 2236.4000749564184,
+        "volume": 26523957794.730083
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775657096781,
+        "close": 2238.342316111031,
+        "volume": 25438810081.12178
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775657396745,
+        "close": 2229.8190556264635,
+        "volume": 26434397129.638676
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775657695664,
+        "close": 2231.86118184074,
+        "volume": 26593120428.711674
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775657999558,
+        "close": 2229.538454096787,
+        "volume": 26404058836.66541
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775658286538,
+        "close": 2226.804480930906,
+        "volume": 25524602379.482273
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775658596869,
+        "close": 2227.2673474327453,
+        "volume": 25363776141.16581
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775658896154,
+        "close": 2209.836602082407,
+        "volume": 25041473857.17171
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775659194091,
+        "close": 2210.243719149443,
+        "volume": 24825366786.114296
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775659496636,
+        "close": 2208.77733192326,
+        "volume": 26426762508.267143
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775659796261,
+        "close": 2204.304298901159,
+        "volume": 26959392468.60347
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775660098175,
+        "close": 2194.3334948316888,
+        "volume": 24172268510.34736
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775660400773,
+        "close": 2192.1790748015073,
+        "volume": 26198709921.3584
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775660697656,
+        "close": 2197.47376352661,
+        "volume": 26375085127.328026
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775660996657,
+        "close": 2200.1119011732753,
+        "volume": 27247311045.027657
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775661297530,
+        "close": 2202.149420253526,
+        "volume": 27241564348.175766
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775661596638,
+        "close": 2202.078729370848,
+        "volume": 27231220473.669907
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775661895617,
+        "close": 2207.52012347886,
+        "volume": 27363493976.95986
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775662191981,
+        "close": 2205.3249237489354,
+        "volume": 27361201358.341236
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775662496068,
+        "close": 2205.917808819208,
+        "volume": 26545885865.62515
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775662791217,
+        "close": 2214.5010902061263,
+        "volume": 26462355622.705006
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775663097599,
+        "close": 2212.193301658161,
+        "volume": 26935598235.80933
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775663396780,
+        "close": 2214.1541297339004,
+        "volume": 26674863271.470455
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775663699504,
+        "close": 2213.0347882404353,
+        "volume": 26643410939.831272
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775664000467,
+        "close": 2215.5995835881145,
+        "volume": 26728325492.389904
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775664296751,
+        "close": 2216.641944035198,
+        "volume": 27461853621.990776
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775664595719,
+        "close": 2216.269208044058,
+        "volume": 27456732262.08417
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775664900577,
+        "close": 2216.4149273130947,
+        "volume": 27501637301.86934
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775665177536,
+        "close": 2215.0555159950277,
+        "volume": 27490938891.083305
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775665499182,
+        "close": 2219.4396314836395,
+        "volume": 26737511456.625656
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775665792409,
+        "close": 2220.0533703373753,
+        "volume": 26738691252.2088
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775666098568,
+        "close": 2213.7925825423804,
+        "volume": 25577876468.683693
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775666399463,
+        "close": 2215.525349606679,
+        "volume": 27527703418.334335
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775666691951,
+        "close": 2217.5743455483994,
+        "volume": 27565103542.352654
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775666992440,
+        "close": 2218.3276625478093,
+        "volume": 27574590804.69267
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775667295877,
+        "close": 2218.9625232067797,
+        "volume": 26734125467.046253
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775667596461,
+        "close": 2222.5301200376684,
+        "volume": 26988575876.777504
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775667897733,
+        "close": 2223.54363085636,
+        "volume": 27577495704.41512
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775668196464,
+        "close": 2221.5762842604527,
+        "volume": 26810697224.036396
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775668497151,
+        "close": 2225.629905578288,
+        "volume": 27575420656.921875
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775668796715,
+        "close": 2224.049586130861,
+        "volume": 27638068811.456627
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775669092790,
+        "close": 2221.894915107312,
+        "volume": 27687049022.136055
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775669396841,
+        "close": 2216.4268637425616,
+        "volume": 26858928194.870148
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775669698481,
+        "close": 2221.343400165931,
+        "volume": 27743869896.745018
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775669997811,
+        "close": 2231.7848063744664,
+        "volume": 26464890606.89991
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775670295426,
+        "close": 2231.781173581067,
+        "volume": 26884712524.019188
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775670597344,
+        "close": 2233.4640288683127,
+        "volume": 26892244297.856647
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775670896166,
+        "close": 2231.976266997615,
+        "volume": 26840983912.617706
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775671200705,
+        "close": 2231.7235381310124,
+        "volume": 26849810520.90722
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775671497381,
+        "close": 2228.8569456436644,
+        "volume": 27712349834.16679
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775671796622,
+        "close": 2230.704281924894,
+        "volume": 27660761998.77661
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775672097298,
+        "close": 2226.7648446201265,
+        "volume": 27598833903.45806
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775672396382,
+        "close": 2221.05548901279,
+        "volume": 27905041404.888123
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775672696197,
+        "close": 2215.3527118417924,
+        "volume": 26572248103.80752
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775672996154,
+        "close": 2213.481801617997,
+        "volume": 27212637146.31186
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775673293557,
+        "close": 2216.572024307237,
+        "volume": 28026089203.686665
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775673599063,
+        "close": 2215.5373237223657,
+        "volume": 27005697955.474724
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775673897696,
+        "close": 2209.2117871797354,
+        "volume": 27281584896.015297
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775674195595,
+        "close": 2209.0269298803314,
+        "volume": 27288287679.396767
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775674496431,
+        "close": 2205.4973933115407,
+        "volume": 26951789442.41604
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775674800595,
+        "close": 2202.622601707491,
+        "volume": 27348723552.665764
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775675091658,
+        "close": 2200.3009262049172,
+        "volume": 27045344428.73077
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775675398787,
+        "close": 2202.824061195496,
+        "volume": 27188108246.75667
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775675698493,
+        "close": 2205.226817793309,
+        "volume": 27101170689.254227
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775675995896,
+        "close": 2203.170998263241,
+        "volume": 27250769108.559235
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775676296189,
+        "close": 2202.532037676716,
+        "volume": 27008247998.642803
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775676600407,
+        "close": 2201.2696737035726,
+        "volume": 27039567717.946274
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775676896719,
+        "close": 2201.7735478670465,
+        "volume": 27837975053.23695
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775677195883,
+        "close": 2206.783451969367,
+        "volume": 27886443456.020004
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775677497271,
+        "close": 2204.8570104770465,
+        "volume": 27922668284.92668
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775677799427,
+        "close": 2206.863358731523,
+        "volume": 27744800181.088947
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775678092789,
+        "close": 2208.306155714613,
+        "volume": 27641002060.908085
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775678401214,
+        "close": 2207.8034840642263,
+        "volume": 26301195915.32704
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775678699134,
+        "close": 2213.3796068073957,
+        "volume": 27419062392.747753
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775678997216,
+        "close": 2215.285464625051,
+        "volume": 26598467877.437172
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775679296361,
+        "close": 2214.8458947156882,
+        "volume": 26501776618.897793
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775679597443,
+        "close": 2216.1124481774445,
+        "volume": 26355586625.17081
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775679895704,
+        "close": 2213.6222475375203,
+        "volume": 26472500707.807724
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775680200571,
+        "close": 2214.6583146849507,
+        "volume": 26232142330.602097
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775680497114,
+        "close": 2212.9935496264166,
+        "volume": 27256128889.11173
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775680796523,
+        "close": 2208.137319668424,
+        "volume": 25841702602.120056
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775681096156,
+        "close": 2207.7912941275044,
+        "volume": 26229567386.29519
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775681396468,
+        "close": 2207.973936026462,
+        "volume": 27192491647.50053
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775681697095,
+        "close": 2209.373728044146,
+        "volume": 27185970845.125328
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775681998569,
+        "close": 2209.5825703963924,
+        "volume": 27131987889.451347
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775682299523,
+        "close": 2209.001856981198,
+        "volume": 26158391271.960842
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775682599629,
+        "close": 2210.4597476764,
+        "volume": 26821659420.951294
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775682895502,
+        "close": 2216.373088910463,
+        "volume": 26777239484.48516
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775683198444,
+        "close": 2215.284093197117,
+        "volume": 25666673073.99362
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775683499080,
+        "close": 2219.013278965466,
+        "volume": 26551299372.24614
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775683794874,
+        "close": 2220.954212915319,
+        "volume": 26045979585.706867
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775684096561,
+        "close": 2218.860076886587,
+        "volume": 26590026484.05831
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775684397568,
+        "close": 2218.6903409144493,
+        "volume": 26451391245.006474
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775684695884,
+        "close": 2217.329334403998,
+        "volume": 26523140057.597485
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775684996112,
+        "close": 2216.3323181527953,
+        "volume": 26348005664.46675
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775685299978,
+        "close": 2215.945145875422,
+        "volume": 26311251225.097443
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775685596079,
+        "close": 2213.711092085272,
+        "volume": 25512408275.078587
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775685895573,
+        "close": 2211.431288048361,
+        "volume": 24989173526.943897
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775686198212,
+        "close": 2213.0402024835457,
+        "volume": 24796507764.797596
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775686496463,
+        "close": 2209.592011759958,
+        "volume": 24771635177.634663
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775686797477,
+        "close": 2206.9735630968235,
+        "volume": 24734890791.658703
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775687095764,
+        "close": 2202.8093244732377,
+        "volume": 24719243378.29989
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775687397286,
+        "close": 2196.55379220791,
+        "volume": 25046615788.519264
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775687695813,
+        "close": 2194.583394539409,
+        "volume": 25231712610.13064
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775687997238,
+        "close": 2199.960068255697,
+        "volume": 24342260364.228287
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775688294972,
+        "close": 2198.950287544302,
+        "volume": 24500772241.820248
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775688599781,
+        "close": 2197.749314382972,
+        "volume": 24523202595.03922
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775688897425,
+        "close": 2195.6530178015987,
+        "volume": 24377630298.40902
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775689200469,
+        "close": 2190.9516220139394,
+        "volume": 24069429211.92893
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775689500478,
+        "close": 2183.730415853996,
+        "volume": 21315213414.06189
+    },
+    {
+        "source": "coingecko",
+        "symbol": "ETHEREUM",
+        "timestamp": 1775689547000,
+        "close": 2185.0195414511627,
+        "volume": 21941405474.85701
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775603391909,
+        "close": 618.3783916537965,
+        "volume": 1030941187.7892901
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775603692380,
+        "close": 618.8284239438499,
+        "volume": 1095409921.1173978
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775603993824,
+        "close": 618.0315057211232,
+        "volume": 1100274305.5226133
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775604300350,
+        "close": 621.0615043395217,
+        "volume": 1135569340.8258955
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775604595601,
+        "close": 622.5075071743395,
+        "volume": 1149467527.2061322
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775604900488,
+        "close": 623.2699907793393,
+        "volume": 1162259458.8460567
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775605195345,
+        "close": 622.8340879626166,
+        "volume": 1159145187.8006423
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775605491461,
+        "close": 621.26581877131,
+        "volume": 1172204667.2135503
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775605791319,
+        "close": 621.9148793302134,
+        "volume": 1179737333.0076325
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775606093494,
+        "close": 622.3559416664049,
+        "volume": 1161979969.5100753
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775606392064,
+        "close": 620.4758823184727,
+        "volume": 1009757674.5294894
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775606694539,
+        "close": 620.4963582650286,
+        "volume": 1214896684.1828046
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775606990597,
+        "close": 620.5305361299859,
+        "volume": 1216536188.5838568
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775607296801,
+        "close": 619.9861194199984,
+        "volume": 1193973998.493236
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775607593293,
+        "close": 619.4636033644828,
+        "volume": 1202742200.6943417
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775607891673,
+        "close": 618.4544941578536,
+        "volume": 1225888135.770559
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775608196937,
+        "close": 618.2170525037833,
+        "volume": 1225801711.81425
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775608491390,
+        "close": 617.1545278660648,
+        "volume": 1231224168.7785707
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775608798560,
+        "close": 616.6802326497914,
+        "volume": 1240804384.7211583
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775609100468,
+        "close": 617.1430151867426,
+        "volume": 1244159065.9790576
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775609397073,
+        "close": 615.9123272235647,
+        "volume": 1236674104.6507907
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775609690693,
+        "close": 616.6860778768663,
+        "volume": 1255043021.2919188
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775610000441,
+        "close": 617.087782551857,
+        "volume": 1248720564.411592
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775610281940,
+        "close": 617.3514729826887,
+        "volume": 1237515663.0034034
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775610599029,
+        "close": 618.1352202137508,
+        "volume": 1261317150.1443017
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775610900602,
+        "close": 618.7391191399433,
+        "volume": 1232768441.6317997
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775611191775,
+        "close": 617.8212029592758,
+        "volume": 1271139350.7775853
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775611495437,
+        "close": 617.0333451641058,
+        "volume": 1241212582.9426632
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775611792662,
+        "close": 615.9782829999479,
+        "volume": 1101965175.1152453
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775612090738,
+        "close": 615.8853648168036,
+        "volume": 1239718666.7917373
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775612391915,
+        "close": 616.1664766293843,
+        "volume": 1267856758.0242014
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775612695794,
+        "close": 616.3564758472261,
+        "volume": 1244815202.1824896
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775612992795,
+        "close": 616.2120674585912,
+        "volume": 1273751512.884957
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775613291695,
+        "close": 615.9383091154884,
+        "volume": 1269792893.3709414
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775613592913,
+        "close": 615.7795421904154,
+        "volume": 1246398870.1606212
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775613891232,
+        "close": 616.0327882834666,
+        "volume": 1254341056.6507595
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775614190677,
+        "close": 616.229908031168,
+        "volume": 1271788497.3731105
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775614495963,
+        "close": 616.963183157537,
+        "volume": 1276631522.4765263
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775614792212,
+        "close": 616.669183865004,
+        "volume": 1281270753.176349
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775615090676,
+        "close": 615.7785464293363,
+        "volume": 1251444246.4779973
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775615392139,
+        "close": 615.8151270209393,
+        "volume": 1255389152.8930895
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775615692580,
+        "close": 615.510768470027,
+        "volume": 1281381329.2732434
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775615990704,
+        "close": 615.3960296206271,
+        "volume": 1280474571.3089318
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775616291510,
+        "close": 615.0685409838583,
+        "volume": 1252157793.8586984
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775616590972,
+        "close": 615.0086339626023,
+        "volume": 1280508740.7470496
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775616891305,
+        "close": 615.3486179754971,
+        "volume": 1264788008.9199448
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775617200392,
+        "close": 615.0047551290415,
+        "volume": 1088319999.2484787
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775617482770,
+        "close": 615.6013806120496,
+        "volume": 1263054724.0700257
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775617790548,
+        "close": 615.4186294947287,
+        "volume": 1293240618.9747767
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775618096481,
+        "close": 615.2599504083829,
+        "volume": 1258575538.276926
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775618391297,
+        "close": 614.9027374104717,
+        "volume": 1054464236.7750092
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775618692481,
+        "close": 614.8757722332804,
+        "volume": 1274473996.9949582
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775618994062,
+        "close": 615.2367043890846,
+        "volume": 1308113068.976361
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775619291397,
+        "close": 615.478810880967,
+        "volume": 1295474127.9542024
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775619591685,
+        "close": 615.447266710158,
+        "volume": 1280594073.2082
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775619890677,
+        "close": 615.5362904516702,
+        "volume": 1301813005.8703067
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775620192416,
+        "close": 614.600468412,
+        "volume": 1313764988.4657652
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775620491610,
+        "close": 613.2531396599371,
+        "volume": 1311664525.059818
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775620789308,
+        "close": 613.341038341749,
+        "volume": 1140756223.7360504
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775621077283,
+        "close": 613.649105924598,
+        "volume": 1304485137.0664876
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775621353231,
+        "close": 614.5668270849903,
+        "volume": 1311516748.0043354
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775621695836,
+        "close": 614.8097728375419,
+        "volume": 1314345023.9482265
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775621996673,
+        "close": 614.9017260841088,
+        "volume": 1318989356.2105045
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775622296893,
+        "close": 614.903582081307,
+        "volume": 1326535110.8056917
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775622595840,
+        "close": 615.0521713974524,
+        "volume": 1146934650.4964569
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775622900329,
+        "close": 615.0629095085703,
+        "volume": 1338027051.327203
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775623200436,
+        "close": 615.3647331822467,
+        "volume": 1306363918.6234484
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775623491860,
+        "close": 615.305614300008,
+        "volume": 1354763424.6312037
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775623798998,
+        "close": 615.6954756084003,
+        "volume": 1329780853.2082577
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775624095980,
+        "close": 615.2256368349844,
+        "volume": 1352245743.547909
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775624395636,
+        "close": 615.432649582599,
+        "volume": 1349717673.621046
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775624697345,
+        "close": 615.3782315454689,
+        "volume": 1345997888.7361526
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775624998327,
+        "close": 615.817379727874,
+        "volume": 1331537468.2187054
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775625295898,
+        "close": 615.8701495264279,
+        "volume": 1348619815.285189
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775625596439,
+        "close": 615.8324892960838,
+        "volume": 1347125157.467938
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775625896449,
+        "close": 616.3872862387622,
+        "volume": 1357324036.3758261
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775626198364,
+        "close": 616.325601073716,
+        "volume": 1360555197.754543
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775626498102,
+        "close": 616.3663024305157,
+        "volume": 1330206922.3321626
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775626796675,
+        "close": 616.0976974869162,
+        "volume": 1149250795.1989849
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775627096743,
+        "close": 615.9127193353906,
+        "volume": 1333840787.2541232
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775627397743,
+        "close": 615.7988144388022,
+        "volume": 1359446536.3168452
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775627698534,
+        "close": 616.2815162451768,
+        "volume": 1360491562.5462554
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775628000519,
+        "close": 615.7993784284282,
+        "volume": 1172415675.1009426
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775628296228,
+        "close": 615.2898753927134,
+        "volume": 1368860698.500245
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775628595295,
+        "close": 616.131872988613,
+        "volume": 1357477286.7181673
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775628897136,
+        "close": 616.7103804049417,
+        "volume": 1367186367.216053
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775629192323,
+        "close": 616.451059255505,
+        "volume": 1371122705.8934484
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775629496282,
+        "close": 616.6595994706121,
+        "volume": 1348058704.4355025
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775629798225,
+        "close": 616.2156433416714,
+        "volume": 1165943568.9642763
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775630099410,
+        "close": 615.8597244418175,
+        "volume": 1344538066.305206
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775630393630,
+        "close": 615.6908724849467,
+        "volume": 1366338302.445688
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775630697216,
+        "close": 615.0287661358328,
+        "volume": 1370208511.2010493
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775630992973,
+        "close": 615.1791789934667,
+        "volume": 1148160653.6074684
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775631296124,
+        "close": 614.3345113055427,
+        "volume": 1375775338.6455357
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775631598490,
+        "close": 614.0640463460749,
+        "volume": 1183355927.9047441
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775631891020,
+        "close": 613.5338163674576,
+        "volume": 1375210073.7048953
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775632198394,
+        "close": 613.542699461289,
+        "volume": 1373750422.0796342
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775632497062,
+        "close": 613.8984551885526,
+        "volume": 1377194129.2142985
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775632795816,
+        "close": 613.3836280884391,
+        "volume": 1381474290.225244
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775633095400,
+        "close": 614.4152699044799,
+        "volume": 1392964071.9895208
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775633397849,
+        "close": 614.4552988917053,
+        "volume": 1374553463.689826
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775633690611,
+        "close": 613.245305584345,
+        "volume": 1275507341.4402323
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775633998454,
+        "close": 612.9797157344651,
+        "volume": 1376274285.544756
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775634299196,
+        "close": 612.6506814262375,
+        "volume": 1359678084.890999
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775634597925,
+        "close": 612.6430808960072,
+        "volume": 1361405344.8220916
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775634895578,
+        "close": 612.7972854306562,
+        "volume": 1370880751.152074
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775635200396,
+        "close": 613.1214087538718,
+        "volume": 1365674281.3339837
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775635492308,
+        "close": 613.230364403073,
+        "volume": 1399069862.4479704
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775635795599,
+        "close": 612.9623485518063,
+        "volume": 1398034579.3849647
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775636097121,
+        "close": 612.9336765837512,
+        "volume": 1402119220.0013576
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775636390500,
+        "close": 613.1492055402421,
+        "volume": 1403400794.6857834
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775636691767,
+        "close": 613.0011901961057,
+        "volume": 1397251027.837364
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775636998270,
+        "close": 612.9130711868659,
+        "volume": 1393928363.7501717
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775637296842,
+        "close": 612.8470393024962,
+        "volume": 1395781339.2543588
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775637592051,
+        "close": 612.2149963805772,
+        "volume": 1394011503.080133
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775637892116,
+        "close": 611.8645677683112,
+        "volume": 1405898651.073598
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775638199809,
+        "close": 612.5297100645784,
+        "volume": 1398527974.2433202
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775638497227,
+        "close": 612.4789087503464,
+        "volume": 1403539783.685833
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775638798710,
+        "close": 612.3545022391088,
+        "volume": 1198272383.2946632
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775639097170,
+        "close": 613.3747065622367,
+        "volume": 1405298533.1372628
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775639396754,
+        "close": 613.7541847433956,
+        "volume": 1369196992.769482
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775639696317,
+        "close": 614.1948108263305,
+        "volume": 1399058869.2071002
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775639997660,
+        "close": 613.9089524867281,
+        "volume": 1396146954.7542
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775640297013,
+        "close": 613.9497865740497,
+        "volume": 1393882628.1820412
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775640596712,
+        "close": 613.4797659476665,
+        "volume": 1389923901.260282
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775640898813,
+        "close": 613.0505906123566,
+        "volume": 1399979379.3670926
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775641197135,
+        "close": 612.1874009557118,
+        "volume": 1398943682.5209181
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775641495987,
+        "close": 611.8440567313816,
+        "volume": 1398843698.8043156
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775641798707,
+        "close": 611.7611925073863,
+        "volume": 1392370197.84082
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775642098111,
+        "close": 611.7050993808499,
+        "volume": 1197008859.7695606
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775642400369,
+        "close": 611.8102821615523,
+        "volume": 1399669266.051424
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775642695977,
+        "close": 612.2743892244285,
+        "volume": 1389820778.6517105
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775643000410,
+        "close": 612.4580663958225,
+        "volume": 1385695945.7396123
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775643298690,
+        "close": 611.8847163199327,
+        "volume": 1376783569.7796986
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775643597234,
+        "close": 612.0787866146685,
+        "volume": 1377373725.49072
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775643898604,
+        "close": 612.4267162750654,
+        "volume": 1373276129.1983316
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775644197813,
+        "close": 612.6347182631315,
+        "volume": 1368240420.099804
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775644495428,
+        "close": 611.7793569210507,
+        "volume": 1373573642.7372
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775644795670,
+        "close": 611.6077091758958,
+        "volume": 1199964761.911495
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775645098292,
+        "close": 611.7503513199471,
+        "volume": 1373774101.0883925
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775645391736,
+        "close": 612.264133775387,
+        "volume": 1344592376.261993
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775645698135,
+        "close": 612.4285394359175,
+        "volume": 1355908895.5516975
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775646000336,
+        "close": 612.1593642536706,
+        "volume": 1362904456.489946
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775646296987,
+        "close": 612.1402022219119,
+        "volume": 1363583836.8667173
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775646597526,
+        "close": 612.208214600471,
+        "volume": 1361311347.1287823
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775646892680,
+        "close": 612.6156745601774,
+        "volume": 1358456578.0274603
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775647200386,
+        "close": 612.4956441909762,
+        "volume": 1356443974.6064541
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775647494790,
+        "close": 611.9494559676865,
+        "volume": 1355012451.1071231
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775647800447,
+        "close": 612.7419803760396,
+        "volume": 1325667103.3709111
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775648097039,
+        "close": 612.4320807679047,
+        "volume": 1357984632.5709052
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775648395814,
+        "close": 611.5290505795351,
+        "volume": 1330104657.212147
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775648692390,
+        "close": 611.4997777419401,
+        "volume": 1330841588.151635
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775648996334,
+        "close": 611.5086434431178,
+        "volume": 1357881060.3244205
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775649296126,
+        "close": 612.4770948796515,
+        "volume": 1358217269.7414415
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775649604941,
+        "close": 612.7917580052148,
+        "volume": 1349082657.0449488
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775649896498,
+        "close": 612.7158409625382,
+        "volume": 1352276978.51634
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775650195868,
+        "close": 613.1148763271983,
+        "volume": 1331276100.4805057
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775650487894,
+        "close": 613.3005397290126,
+        "volume": 1351650849.729529
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775650796996,
+        "close": 613.4325923848537,
+        "volume": 1129592360.810501
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775651099168,
+        "close": 612.1500520561461,
+        "volume": 1348326485.191387
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775651398487,
+        "close": 612.3917965440036,
+        "volume": 1339122423.5651228
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775651696257,
+        "close": 612.6716378986075,
+        "volume": 1343980008.1216888
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775651997147,
+        "close": 613.6869369128193,
+        "volume": 1339784917.3850176
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775652296460,
+        "close": 613.4946414393307,
+        "volume": 1341538403.1053288
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775652597976,
+        "close": 613.6133162665199,
+        "volume": 1339077212.8124323
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775652895394,
+        "close": 614.1108809452738,
+        "volume": 1339708403.0183434
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775653196583,
+        "close": 613.7395304494903,
+        "volume": 1368253035.1311793
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775653499227,
+        "close": 613.8205939071297,
+        "volume": 1369029362.9417758
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775653796732,
+        "close": 615.1073237553926,
+        "volume": 1377068973.97214
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775654097703,
+        "close": 614.1905017683846,
+        "volume": 1380141016.7470748
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775654396754,
+        "close": 613.8796998516538,
+        "volume": 1382219125.9293065
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775654699127,
+        "close": 613.0523723260792,
+        "volume": 1387132882.4621377
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775654997144,
+        "close": 612.0612539468182,
+        "volume": 1396650599.8286927
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775655296121,
+        "close": 611.1480849259581,
+        "volume": 1403726047.0269837
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775655597995,
+        "close": 610.0539991051787,
+        "volume": 1407965855.817489
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775655896471,
+        "close": 609.1935079805689,
+        "volume": 1408531108.8747075
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775656197488,
+        "close": 610.18527899367,
+        "volume": 1376753451.4808776
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775656497598,
+        "close": 608.9843753937969,
+        "volume": 1424785832.5408673
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775656796462,
+        "close": 607.0097817883803,
+        "volume": 1287437244.8199632
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775657096887,
+        "close": 607.6158584013012,
+        "volume": 1424165771.855182
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775657396362,
+        "close": 607.3667513616751,
+        "volume": 1459565755.87977
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775657695611,
+        "close": 607.2968917096425,
+        "volume": 1469370648.6504138
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775657999246,
+        "close": 607.2737651115821,
+        "volume": 1443245492.387431
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775658287296,
+        "close": 606.9789347736482,
+        "volume": 1467824156.1325848
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775658596938,
+        "close": 607.1514319037553,
+        "volume": 1194399904.2953072
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775658897145,
+        "close": 603.9697225018753,
+        "volume": 1476493748.424177
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775659194043,
+        "close": 604.2366072186647,
+        "volume": 1481249600.215087
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775659500342,
+        "close": 603.9472955926467,
+        "volume": 1486332168.2486508
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775659796200,
+        "close": 603.6322477823459,
+        "volume": 1491819963.3286326
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775660097485,
+        "close": 602.3913724062513,
+        "volume": 1484773190.331401
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775660400441,
+        "close": 602.280807548581,
+        "volume": 1351267049.3412817
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775660697268,
+        "close": 603.0653663648499,
+        "volume": 1457863138.3734443
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775660996086,
+        "close": 602.825759823933,
+        "volume": 1500525860.0759704
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775661296691,
+        "close": 602.8058544004124,
+        "volume": 1466020079.3976848
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775661600378,
+        "close": 603.3663823356446,
+        "volume": 1286987898.573295
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775661895485,
+        "close": 604.4334631143594,
+        "volume": 1500096714.0707312
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775662200948,
+        "close": 604.1981896626991,
+        "volume": 1464833308.879745
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775662496163,
+        "close": 604.5333980786523,
+        "volume": 1492625963.1949437
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775662790976,
+        "close": 605.068417938301,
+        "volume": 1484627154.2593117
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775663096823,
+        "close": 605.1456668873918,
+        "volume": 1497699129.0345302
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775663397007,
+        "close": 605.5489814889743,
+        "volume": 1465808519.478239
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775663699310,
+        "close": 605.4688884815589,
+        "volume": 1505732807.9655638
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775664000359,
+        "close": 605.4104266125125,
+        "volume": 1498221486.036149
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775664296744,
+        "close": 605.509284584754,
+        "volume": 1495092055.654079
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775664595644,
+        "close": 605.7719908075408,
+        "volume": 1496617745.4420094
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775664900328,
+        "close": 606.1551688985037,
+        "volume": 1496201540.4262464
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775665192650,
+        "close": 606.2930660046205,
+        "volume": 1500422363.2085822
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775665499758,
+        "close": 606.6848088996711,
+        "volume": 1489608425.7700145
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775665800345,
+        "close": 606.8226910359101,
+        "volume": 1497510789.9414487
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775666098657,
+        "close": 606.341200574298,
+        "volume": 1439121460.2055182
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775666399610,
+        "close": 606.8667072284469,
+        "volume": 1475605532.3428595
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775666692108,
+        "close": 607.1334670898065,
+        "volume": 1435352320.145256
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775666992358,
+        "close": 605.6666888078996,
+        "volume": 1495377696.1508043
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775667296081,
+        "close": 605.0706244081678,
+        "volume": 1492234133.5983276
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775667597981,
+        "close": 605.4466711872466,
+        "volume": 1493997494.3194876
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775667897628,
+        "close": 605.7872800844045,
+        "volume": 1498939517.6524365
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775668196588,
+        "close": 605.5825412878933,
+        "volume": 1501223268.3125417
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775668497066,
+        "close": 606.1960147463387,
+        "volume": 1495476993.4130425
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775668796519,
+        "close": 605.7040228724275,
+        "volume": 1495728480.695488
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775669092633,
+        "close": 605.7064812139603,
+        "volume": 1495755428.184
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775669400331,
+        "close": 605.0716705655404,
+        "volume": 1494651744.2051184
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775669698339,
+        "close": 605.6749604480577,
+        "volume": 1500210860.455185
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775669997731,
+        "close": 606.9395661382547,
+        "volume": 1484299270.7372234
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775670295560,
+        "close": 606.994394793752,
+        "volume": 1497552750.432594
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775670596928,
+        "close": 607.1364350435724,
+        "volume": 1489394126.0842826
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775670895957,
+        "close": 607.1340061922757,
+        "volume": 1463563767.782816
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775671200435,
+        "close": 607.0277352568576,
+        "volume": 1495018152.8007672
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775671497266,
+        "close": 606.7732109545113,
+        "volume": 1460963634.8796234
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775671796925,
+        "close": 607.0205913678157,
+        "volume": 1485235827.5076303
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775672097973,
+        "close": 606.6181993172836,
+        "volume": 1482356960.5128691
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775672396169,
+        "close": 605.8821154481004,
+        "volume": 1388517871.78269
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775672698963,
+        "close": 604.5853935273411,
+        "volume": 1494860806.1569986
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775673000397,
+        "close": 604.5680463401496,
+        "volume": 1488654178.3246725
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775673293316,
+        "close": 605.1446265757318,
+        "volume": 1492763561.5764475
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775673600461,
+        "close": 605.1840519586842,
+        "volume": 1500095584.6181715
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775673897523,
+        "close": 604.2276535820749,
+        "volume": 1502073203.7684577
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775674200381,
+        "close": 604.0137881354663,
+        "volume": 1487151584.9373357
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775674496379,
+        "close": 603.6730398576983,
+        "volume": 1497702487.2181773
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775674800414,
+        "close": 603.3978846924246,
+        "volume": 1499856403.3934608
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775675091615,
+        "close": 603.5074059627647,
+        "volume": 1498029942.1585257
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775675398687,
+        "close": 603.7581554957025,
+        "volume": 1492468068.7197976
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775675698160,
+        "close": 604.2193714131782,
+        "volume": 1486110499.9926474
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775676000324,
+        "close": 603.9822367666595,
+        "volume": 1497340580.715688
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775676295871,
+        "close": 603.6342775624034,
+        "volume": 1495398407.6582613
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775676600658,
+        "close": 603.413275662804,
+        "volume": 1486381528.3015752
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775676896687,
+        "close": 603.5179660605239,
+        "volume": 1495231572.449194
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775677195687,
+        "close": 604.283156858028,
+        "volume": 1485813488.5203278
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775677496955,
+        "close": 604.0878761862194,
+        "volume": 1492744987.153099
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775677799833,
+        "close": 604.5865091009223,
+        "volume": 1477958840.7120109
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775678092569,
+        "close": 604.3983471754904,
+        "volume": 1467710371.2597442
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775678400365,
+        "close": 604.1697133986447,
+        "volume": 1466265056.4066017
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775678699323,
+        "close": 604.6944132881089,
+        "volume": 1179891870.0067976
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775678997120,
+        "close": 604.7547769355841,
+        "volume": 1455403912.1731462
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775679298652,
+        "close": 604.4850036672643,
+        "volume": 1453200562.666604
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775679597346,
+        "close": 604.6667649679604,
+        "volume": 1450050671.5009854
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775679896994,
+        "close": 604.4273206977173,
+        "volume": 1452365030.7066717
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775680200790,
+        "close": 604.584105069551,
+        "volume": 1450695290.3019478
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775680497047,
+        "close": 604.7755624243553,
+        "volume": 1450971700.0968761
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775680796410,
+        "close": 604.2578112663108,
+        "volume": 1449459819.4507613
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775681095995,
+        "close": 604.2766770847685,
+        "volume": 1444918306.7930622
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775681400322,
+        "close": 604.2087887922825,
+        "volume": 1449020854.28911
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775681696895,
+        "close": 604.4567096519426,
+        "volume": 1449802720.5903757
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775681998191,
+        "close": 604.7702071766522,
+        "volume": 1414918822.757327
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775682298944,
+        "close": 605.0376889854213,
+        "volume": 1433840835.7232323
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775682599615,
+        "close": 605.2965343625234,
+        "volume": 1439212804.84015
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775682898795,
+        "close": 606.0849044888233,
+        "volume": 1428719753.7555985
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775683197921,
+        "close": 606.21606101419,
+        "volume": 1418135694.3922186
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775683499083,
+        "close": 606.4114075221972,
+        "volume": 1423394070.3348615
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775683794656,
+        "close": 606.7048886714028,
+        "volume": 1424382644.7157829
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775684096327,
+        "close": 606.8663355697796,
+        "volume": 1419679070.738419
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775684397506,
+        "close": 606.853781470771,
+        "volume": 1415124421.4034817
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775684698971,
+        "close": 607.1869829635773,
+        "volume": 1422370703.5528913
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775684995812,
+        "close": 607.1264894214305,
+        "volume": 1374995746.6524258
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775685299628,
+        "close": 607.1024886622288,
+        "volume": 1371287112.4749599
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775685595951,
+        "close": 606.4891219227433,
+        "volume": 1412632167.2780533
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775685893531,
+        "close": 606.1849283239126,
+        "volume": 1343115954.605826
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775686198091,
+        "close": 606.5151492855866,
+        "volume": 1390008093.3004758
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775686496715,
+        "close": 605.9587622838823,
+        "volume": 1374842816.3721852
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775686797703,
+        "close": 605.3886353079247,
+        "volume": 1377860161.8276918
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775687095340,
+        "close": 605.036968069884,
+        "volume": 1375211934.4406202
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775687396982,
+        "close": 605.2009152592417,
+        "volume": 1377070722.2735674
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775687695660,
+        "close": 605.4278433406174,
+        "volume": 1359753696.195763
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775687996779,
+        "close": 606.0851822464132,
+        "volume": 1187776798.1487722
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775688300434,
+        "close": 606.0364313808366,
+        "volume": 1303516154.3959234
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775688598885,
+        "close": 605.8321692359483,
+        "volume": 1338241962.218995
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775688897516,
+        "close": 605.3314783131218,
+        "volume": 1334220849.336628
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775689200363,
+        "close": 604.6857828984577,
+        "volume": 1307387504.4790914
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775689498158,
+        "close": 603.4585649439161,
+        "volume": 1279416431.6153705
+    },
+    {
+        "source": "coingecko",
+        "symbol": "BINANCECOIN",
+        "timestamp": 1775689563000,
+        "close": 603.512870579039,
+        "volume": 1278563220.5496025
+    }
+]
