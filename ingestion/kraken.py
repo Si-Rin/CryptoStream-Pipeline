@@ -25,7 +25,7 @@ def get_kraken_data(symbols=None) -> pd.DataFrame:
     
     # If no symbols are provided, use a default list of popular trading pairs
     if symbols is None:
-        symbols = ["XBTUSD", "ETHUSD", "BNBUSD"]
+        symbols = ["XBTUSD", "ETHUSD", "BNBUSD", "XRPUSD"]
 
     # List to hold all the fetched data
     all_data = []

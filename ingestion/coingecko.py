@@ -22,7 +22,7 @@ def get_coingecko_data(coins=None) -> pd.DataFrame:
     
     # List of coins to fetch data for (if no coins provided, use a default list)
     if coins is None:
-        coins = ["bitcoin", "ethereum", "binancecoin"]
+        coins = ["bitcoin", "ethereum", "binancecoin", "ripple"]
 
    # List to hold all the fetched data
     all_data = []

@@ -26,7 +26,7 @@ def get_binance_data(symbols=None, limit=300) -> pd.DataFrame:
     
     # If no symbols are provided, use a default list of popular trading pairs
     if symbols is None:
-        symbols = ["BTCUSDT", "ETHUSDT", "BNBUSDT"]
+        symbols = ["BTCUSDT", "ETHUSDT", "BNBUSDT", "XRPUSDT"]
 
     # List to hold all the fetched data
     all_data = []
