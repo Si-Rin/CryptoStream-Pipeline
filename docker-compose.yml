@@ -16,6 +16,7 @@ services:
       KAFKA_OFFSETS_TOPIC_REPLICATION_FACTOR: 3
       KAFKA_TRANSACTION_STATE_LOG_REPLICATION_FACTOR: 3
       KAFKA_TRANSACTION_STATE_LOG_MIN_ISR: 2
+      KAFKA_AUTO_CREATE_TOPICS_ENABLE: "false"
       CLUSTER_ID: "${CLUSTER_ID}"
     volumes:
       - kafka-data-1:/var/lib/kafka/data
@@ -43,6 +44,7 @@ services:
       KAFKA_OFFSETS_TOPIC_REPLICATION_FACTOR: 3
       KAFKA_TRANSACTION_STATE_LOG_REPLICATION_FACTOR: 3
       KAFKA_TRANSACTION_STATE_LOG_MIN_ISR: 2
+      KAFKA_AUTO_CREATE_TOPICS_ENABLE: "false"
       CLUSTER_ID: "${CLUSTER_ID}"
     volumes:
       - kafka-data-2:/var/lib/kafka/data
@@ -70,6 +72,7 @@ services:
       KAFKA_OFFSETS_TOPIC_REPLICATION_FACTOR: 3
       KAFKA_TRANSACTION_STATE_LOG_REPLICATION_FACTOR: 3
       KAFKA_TRANSACTION_STATE_LOG_MIN_ISR: 2
+      KAFKA_AUTO_CREATE_TOPICS_ENABLE: "false"
       CLUSTER_ID: "${CLUSTER_ID}"
     volumes:
       - kafka-data-3:/var/lib/kafka/data
@@ -95,19 +98,25 @@ services:
       "
       echo 'Waiting for Kafka to be ready...'
       
-      kafka-topics --bootstrap-server kafka-broker-1:29092 --create --if-not-exists --topic crypto-trades-btcusdt --partitions 6 --replication-factor 3 --config retention.ms=86400000 --config retention.bytes=1073741824
+      kafka-topics --bootstrap-server kafka-broker-1:29092 --create --topic crypto-trades-btcusdt --partitions 6 --replication-factor 3 --config retention.ms=86400000 --config retention.bytes=1073741824 --config min.insync.replicas=2
 
-      kafka-topics --bootstrap-server kafka-broker-1:29092 --create --if-not-exists --topic crypto-trades-ethusdt --partitions 6 --replication-factor 3 --config retention.ms=86400000 --config retention.bytes=1073741824
+      kafka-topics --bootstrap-server kafka-broker-1:29092 --create --topic crypto-trades-ethusdt --partitions 6 --replication-factor 3 --config retention.ms=86400000 --config retention.bytes=1073741824 --config min.insync.replicas=2 
 
-      kafka-topics --bootstrap-server kafka-broker-1:29092 --create --if-not-exists --topic crypto-trades-xrpusdt --partitions 6 --replication-factor 3 --config retention.ms=86400000 --config retention.bytes=1073741824
+      kafka-topics --bootstrap-server kafka-broker-1:29092 --create --topic crypto-trades-xrpusdt --partitions 6 --replication-factor 3 --config retention.ms=86400000 --config retention.bytes=1073741824 --config min.insync.replicas=2
 
-      kafka-topics --bootstrap-server kafka-broker-1:29092 --create --if-not-exists --topic crypto-trades-bnbusdt --partitions 6 --replication-factor 3 --config retention.ms=86400000 --config retention.bytes=1073741824
+      kafka-topics --bootstrap-server kafka-broker-1:29092 --create --topic crypto-trades-solusdt --partitions 6 --replication-factor 3 --config retention.ms=86400000 --config retention.bytes=1073741824 --config min.insync.replicas=2
 
+      kafka-topics --bootstrap-server kafka-broker-1:29092 --create --topic crypto-trades-adausdt --partitions 6 --replication-factor 3 --config retention.ms=86400000 --config retention.bytes=1073741824 --config min.insync.replicas=2
+
+      kafka-topics --bootstrap-server kafka-broker-1:29092 --create --topic crypto-trades-dead-letter --partitions 3 --replication-factor 3
+      
       echo '--- Verifying topics ---'
       kafka-topics --bootstrap-server kafka-broker-1:29092 --describe --topic crypto-trades-btcusdt
       kafka-topics --bootstrap-server kafka-broker-1:29092 --describe --topic crypto-trades-ethusdt
       kafka-topics --bootstrap-server kafka-broker-1:29092 --describe --topic crypto-trades-xrpusdt
-      kafka-topics --bootstrap-server kafka-broker-1:29092 --describe --topic crypto-trades-bnbusdt
+      kafka-topics --bootstrap-server kafka-broker-1:29092 --describe --topic crypto-trades-solusdt
+      kafka-topics --bootstrap-server kafka-broker-1:29092 --describe --topic crypto-trades-adausdt
+      kafka-topics --bootstrap-server kafka-broker-1:29092 --describe --topic crypto-trades-dead-letter
       
       echo '--- All topics verified ---'
       echo 'Topics created successfully'
