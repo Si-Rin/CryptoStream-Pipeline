@@ -183,6 +183,6 @@ def crypto_pipeline() -> None:
 if __name__ == "__main__":
     crypto_pipeline.serve(
         name="crypto-dev",
-        interval=900,         # run every 15 minutes
+        interval=1800,         # run every 30 minutes
         pause_on_shutdown=False,
     )
