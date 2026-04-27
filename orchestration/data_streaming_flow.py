@@ -49,7 +49,7 @@ logger = logging.getLogger(__name__)
 
 # ─── PATH RESOLUTION ─────────────────────────────────────────────────────────
 ROOT_DIR = Path(__file__).parent.parent.resolve()  # two levels up from orchestration/ to project root
-JOBS_DIR = ROOT_DIR /  "streaming" / "spark"  # relative path to the folder containing the job scripts
+JOBS_DIR = Path(__file__).parent.resolve() # orchestration/ where the job scripts are located
 PYTHON   = sys.executable              # path to the current Python interpreter, ensures we use the same environment for subprocesses
 
 
@@ -121,7 +121,7 @@ def task_bronze() -> None:
     ),
     retries=2,
     retry_delay_seconds=15,
-    timeout_seconds=300,
+    timeout_seconds=1200,              # fail if the Silver job hangs > 20 min
 )
 def task_silver() -> None:
     logger.info("=== SILVER START ===")
@@ -138,7 +138,7 @@ def task_silver() -> None:
     ),
     retries=1,                         # Gold is idempotent (overwrite), safe to retry
     retry_delay_seconds=10,
-    timeout_seconds=180,
+    timeout_seconds=600,              # fail if the Gold job hangs > 10 min
 )
 def task_gold() -> None:
     logger.info("=== GOLD START ===")
@@ -154,9 +154,9 @@ def task_gold() -> None:
         "Medallion pipeline: Bronze (Kafka) → Silver (OHLCV) → Gold (Indicators). "
         "Scheduled every 60 seconds. Sequential execution enforced by task ordering."
     ),
-    # If a cycle takes longer than 90s, Prefect marks it failed rather than
+    # If a cycle takes longer than 10 minutes, Prefect marks it failed rather than
     # letting it pile up behind the next scheduled run.
-    timeout_seconds=90,
+    timeout_seconds=600,  # 10 minutes
 )
 def crypto_pipeline() -> None:
     """
@@ -183,6 +183,6 @@ def crypto_pipeline() -> None:
 if __name__ == "__main__":
     crypto_pipeline.serve(
         name="crypto-dev",
-        interval=1800,         # run every 30 minutes
+        interval=3600,         # run every 1 hour
         pause_on_shutdown=False,
     )

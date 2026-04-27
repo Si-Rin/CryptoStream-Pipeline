@@ -124,7 +124,26 @@ services:
       "
     restart: "no"
 
+  prefect-server:
+    image: prefecthq/prefect:3-latest
+    container_name: prefect-server
+    ports:
+      - "4200:4200"
+    command: prefect server start --host 0.0.0.0
+    environment:
+      PREFECT_UI_URL: http://localhost:4200/api
+      PREFECT_API_URL: http://localhost:4200/api
+      PREFECT_SERVER_API_HOST: 0.0.0.0
+    volumes:
+      - prefect-data:/root/.prefect
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:4200/api/health"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
 volumes:
   kafka-data-1:
   kafka-data-2:
   kafka-data-3:
+  prefect-data:

@@ -1,0 +1,19 @@
+name: crypto-pipeline
+prefect-version: 3.0.0
+
+deployments:
+  - name: market-snapshot-hourly
+    entrypoint: orchestration/flow/batch_market_snapshot.py:batch_market_snapshot_flow
+    work_pool:
+      name: default-pool
+    schedules:
+      - cron: "0 * * * *" # every hour at minute 0
+        timezone: "UTC"
+
+  - name: global-metrics-hourly
+    entrypoint: orchestration/flow/batch_global_metrics.py:batch_global_metrics_flow
+    work_pool:
+      name: default-pool
+    schedules:
+      - cron: "5 * * * *" # every hour at minute 5
+        timezone: "UTC"

@@ -13,7 +13,7 @@ import subprocess
 import sys
 import os
 from ingestion.binance import get_binance_data
-from ingestion.coingecko import get_coingecko_data
+from ingestion.producer_rest.coingecko_market_snapshot import get_coingecko_data
 from ingestion.kraken import get_kraken_data
 from storage.save import save_raw
 
